@@ -8,8 +8,7 @@
   },
   "nyc": {
     "extension": [
-      ".jsx",
-      ".js"
+      ".jsx"
     ]
   },
   "author": "",
