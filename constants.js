@@ -1,4 +1,4 @@
-import { condition } from './condition.js';
+import { condition } from './condition.jsx';
 
 const sizes = {
 	car: 500,
